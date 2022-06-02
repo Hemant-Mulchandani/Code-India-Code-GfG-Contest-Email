@@ -1,4 +1,4 @@
-# [🧑🏻‍💻 Code India Code-GfG-Contest-Email📧](https://hemant-mulchandani.github.io/Code-India-Code-GfG-Contest-Email/)
+# [🧑🏻‍💻 Code India Code GfG Contest Email 📬](https://hemant-mulchandani.github.io/Code-India-Code-GfG-Contest-Email/)
 
   📌 Visit to Live Interact : 🔗
 
